@@ -2,3 +2,5 @@
 Primeiro repositorio remoto do GitHub1
 
 Acabei de fazer a minha primeira alteração para o repositor remoto
+
+Frase adicionada, diretamente no GitHub
